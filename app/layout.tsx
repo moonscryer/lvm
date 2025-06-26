@@ -13,9 +13,8 @@ const crimsonText = Crimson_Text({
 });
 
 export const metadata: Metadata = {
-  title: "Lendas do Velho Mundo - Bronze Age RPG",
-  description:
-    "Explore the ancient world of Lendas do Velho Mundo, a Bronze Age tabletop RPG",
+  title: "Lendas do Velho Mundo - RPG Fantástico",
+  description: "Explore as Lendas do Velho Mundo, um RPG de alta aventura.",
 };
 
 export default function RootLayout({
