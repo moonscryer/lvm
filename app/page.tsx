@@ -68,7 +68,8 @@ export default function Home() {
             <CardContent className="text-center p-8">
               <p className="text-stone-300 mb-6 leading-relaxed font-sans">
                 Do norte gélido de Trondheim até os vulcões do Império Wazif,
-                cada reino oferece culturas, políticas e fés variadas.
+                cada reino possui uma diversidade de belezas a contemplar e de
+                perigos a superar.
               </p>
               <Button
                 asChild
@@ -142,7 +143,7 @@ export default function Home() {
 
           <div className="relative z-10">
             <h3 className="text-4xl md:text-5xl font-bold text-center mb-12 font-cinzel text-amber-200 glow-text">
-              Aventuras Épicas te Esperam
+              Aventuras Épicas Aguardam
             </h3>
             <div className="grid md:grid-cols-3 gap-10">
               <div className="text-center group">
