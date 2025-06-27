@@ -13,13 +13,13 @@ const realms = [
   {
     name: "Império Wazif",
     description:
-      "O poderoso império do sol, onde os Santos da dinastia Wazif regem com a bênção de Dyadis.",
+      "O milenar império do sol, onde os Santos da dinastia Wazif regem com a bênção de Dyadis.",
     culture:
-      "Civilização multiétnica, com uma religão monoteísta e monarquia divina.",
-    capital: "Anuk",
-    ruler: "Imperatriz Mytralla Al-Wazif, a Dama das Hostes",
+      "Civilização multiétnica e escravagista, com uma religão monoteísta e uma monarquia divina.",
+    capital: "Anuk, a Jóia de Balmut",
+    ruler: "Santíssima Imperatriz Mytralla Al-Wazif, a Dama das Hostes",
     features: [
-      "Monarquia Divina",
+      "Deuses-Reis",
       "Ouro e Gemas",
       "Povos Nômades",
       "Arquitetura Monumental",
@@ -31,15 +31,15 @@ const realms = [
   {
     name: "Jarldom de Trondheim",
     description:
-      "Clãs de guerreiros do norte gélido, conhecidos por sua bravura, suas runas e Berserkers lendários.",
+      "Clãs de habitantes do norte gélido, conhecidos por sua bravura, suas runas e seus Berserkers lendários.",
     culture: "Tribos nórdicas cujas sagas são cantadas pelos Skalds.",
     capital: "Trondelag",
     ruler: "Alta Rainha Edda Runadottir, a Mãe dos Clãs",
     features: [
       "Cultura Guerreira",
       "Magia Rúnica",
-      "Gigantes de Gelo",
-      "Berserker",
+      "Barcos Longos",
+      "Berserkers",
     ],
     icon: Mountain,
     color: "from-slate-600 to-blue-600",
@@ -55,9 +55,9 @@ const realms = [
     ruler: "Tsar Timofey II, o Velho",
     features: [
       "Monopólio de Ferro",
-      "Politeísmo do Lírio",
-      "Absolutismo",
-      "Sistema Feudal",
+      "Infantaria Pesada",
+      "Monarquia Absolutista",
+      "Sociedade Feudal",
     ],
     icon: Crown,
     color: "from-blue-600 to-teal-600",
@@ -65,16 +65,16 @@ const realms = [
   },
   {
     name: "Reino de Fhearann",
-    description: "Reino de cavaleiros, legiões e conquistadores.",
+    description: "Reino de cavaleiros, legiões e guildas artesanais.",
     culture:
       "Civilização mediterrânea com forte influência militar e mercantil.",
     capital: "Cairn",
     ruler: "Rei Aethelric IV, o Despreparado",
     features: [
-      "Mestres Ferreiros",
+      "Cavalaria Pesada",
       "Redes Comerciais",
       "Domínio do Bronze",
-      "Companhias Mercenárias",
+      "Monarquia Parlamentarista",
     ],
     icon: Shield,
     color: "from-amber-600 to-orange-600",
@@ -83,16 +83,15 @@ const realms = [
   {
     name: "Confederação das Tribos Pictas",
     description:
-      "Povos celtas unidos por laços tribais, vivendo em harmonia com a natureza e praticando magia antiga.",
-    culture:
-      "Veneradores de espíritos, tanto da natureza quanto dos ancestrais.",
+      "Povos celtas unidos por laços tribais, habitantes da natureza selvagem e praticantes de magia druídica.",
+    culture: "Veneradores de espíritos da natureza e de ancestrais.",
     capital: "Adhras da Floresta Uivante",
     ruler: "Brella ua Camridh",
     features: [
-      "Druidas e Xamãs",
+      "Druidas Totemistas",
       "Culto à Natureza",
-      "Cidades Florestais",
-      "Círculos de Pedra",
+      "Cidades nas Florestas",
+      "Guerrilha Tribal",
     ],
     icon: Sword,
     color: "from-green-600 to-emerald-600",
@@ -101,14 +100,14 @@ const realms = [
   {
     name: "Principado Umerac",
     description:
-      "Uma cidadela de mármore e magia, onde ninguém é bem-vindo, exceto os que contemplaram o cosmos.",
+      "Uma cidadela de mármore e magia onde ninguém é bem-vindo, exceto aqueles que contemplaram o cosmos em sua plenitude.",
     culture:
       "Civilização mística e isolacionista, com foco em magia e conhecimento arcano.",
     capital: "Umerac, a Cidade das Estrelas",
     ruler: "Umerac",
     features: [
       "Arquitetura Mágica",
-      "Bibliotecas Antigas",
+      "Bibliotecas Secretas",
       "Nodos de Poder",
       "Astronomia Avançada",
     ],
