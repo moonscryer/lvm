@@ -13,7 +13,7 @@ const crimsonText = Crimson_Text({
 });
 
 export const metadata: Metadata = {
-  title: "Lendas do Velho Mundo - RPG Fantástico",
+  title: "Lendas do Velho Mundo - RPG de Fantasia na Era do Bronze",
   description: "Explore as Lendas do Velho Mundo, um RPG de alta aventura.",
 };
 
