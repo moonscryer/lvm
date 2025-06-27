@@ -107,9 +107,9 @@ const timelineEvents = [
     title: "A Agressão Umeraque",
     period: "Surgimento do Principado Púrpura",
     description:
-      "Seguidores do sábio louco Umerac usam alta magia para conquistar o Vale dos Sussurros e construir nele a cidade de mármore.",
+      "Seguidores do misterioso Umerac—dito sábio e louco—usam alta magia para conquistar o Vale dos Sussurros e construir nele a cidade de mármore.",
     details:
-      "Conhecidos como umeraques, os fiéis do astrólogo utilizam magia poderosa para estabelecer um principado isolacionista. A cidadela intransponível é um lugar de mistérios arcanos onde nenhum visitante é bem-vindo, de onde invasores nunca retornam.",
+      "Conhecidos como umeraques, os fiéis do astrólogo utilizam magia poderosa para estabelecer um principado isolacionista. A cidadela intransponível é um lugar de mistérios arcanos onde nenhum visitante é bem-vindo, e do qual invasores nunca retornam.",
     icon: Wand2,
     color: "from-indigo-700 to-purple-800",
   },
