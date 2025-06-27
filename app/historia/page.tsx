@@ -71,12 +71,12 @@ const timelineEvents = [
   },
   {
     year: "406",
-    title: "Reino de Ferun",
+    title: "Reino de Fhearann",
     period: "As Conquistas de Lucardis",
     description:
-      "A lendária guerreira-loba Lucardis funda o Reino de Ferun ao unir as tribos centrais de Partha sob sua liderança.",
+      "A lendária guerreira-loba Lucardis funda o Reino de Fhearann ao unir as tribos centrais de Partha sob sua liderança.",
     details:
-      "Lucardis 'a Loba' conquista as tribos guerreiras do centro de Partha. Ela estabelece um reino poderoso e respeitado, onde o trabalho e a honra são os principais valores. Ferun se solidifica e Lucardis é reverenciada como a mãe da nação.",
+      "Lucardis 'a Loba' conquista as tribos guerreiras do centro de Partha. Ela estabelece um reino poderoso e respeitado, onde o trabalho e a honra são os principais valores. Fhearann se solidifica e Lucardis é reverenciada como a mãe da nação.",
     icon: Crown,
     color: "from-green-700 to-green-600",
   },

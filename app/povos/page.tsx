@@ -21,7 +21,7 @@ const folks = [
     color: "from-amber-600 to-yellow-600",
   },
   {
-    name: "Ferunes",
+    name: "Fhearannas",
     description:
       "Herdeiros das tribos do centro-leste de Partha. Etnicamente diversos, artesãos de renome, abominam o escravagismo.",
     origin: "Antigos clãs dos pântanos e montanhas",
@@ -39,7 +39,7 @@ const folks = [
     description:
       "O supersticioso povo da Floresta Negra, renomado por sua dureza, sua riqueza cultural e abundância populacional.",
     origin: "Descendentes de Barik o Ousado, do norte gélido",
-    traits: ["Fé do Lírio", "Resiliência", "Litan", "Danças Acrobáticas"],
+    traits: ["Fé do Lírio", "Resiliência", "Ferro", "Danças Acrobáticas"],
     abilities: ["Magia do Lírio", "Guerrilha Bariyana", "Coro de Guerra"],
     icon: Crown,
     color: "from-yellow-800 to-red-950",

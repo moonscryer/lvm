@@ -54,7 +54,7 @@ const realms = [
     capital: "Eligrad",
     ruler: "Tsar Timofey II, o Velho",
     features: [
-      "Monopólio de Litan",
+      "Monopólio de Ferro",
       "Politeísmo do Lírio",
       "Absolutismo",
       "Sistema Feudal",
@@ -64,7 +64,7 @@ const realms = [
     borderColor: "border-teal-500/50",
   },
   {
-    name: "Reino de Ferun",
+    name: "Reino de Fhearann",
     description: "Reino de cavaleiros, legiões e conquistadores.",
     culture:
       "Civilização mediterrânea com forte influência militar e mercantil.",
