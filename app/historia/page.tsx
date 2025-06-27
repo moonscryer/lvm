@@ -87,7 +87,7 @@ const timelineEvents = [
     description:
       "Uma heresia dyadista, conhecida como talassismo, se espalha em segredo entre os estudiosos do mundo que buscam a sabedoria oculta sobre a vida e a morte.",
     details:
-      "Apesar de estritamente proibida sob pena de morte, a deturpação da fé seduz os eruditos e os tenta a aprender a manipular osso, carne e espírito. Muitos necromantes trabalham nas sombras, pervertendo as doutrinas estabelecidas.",
+      "Apesar de estritamente proibida sob pena de morte, a deturpação da fé seduz os eruditos e os tenta a aprender a manipular carne, osso e espírito. Muitos necromantes trabalham nas sombras, pervertendo as doutrinas estabelecidas.",
     icon: Skull,
     color: "from-green-800 to-gray-900",
   },
