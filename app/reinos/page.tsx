@@ -19,7 +19,7 @@ const realms = [
     capital: "Anuk, a Jóia de Balmut",
     ruler: "Santíssima Imperatriz Mytralla Al-Wazif, a Dama das Hostes",
     features: [
-      "Deuses-Reis",
+      "Realeza Santa",
       "Ouro e Gemas",
       "Povos Nômades",
       "Arquitetura Monumental",

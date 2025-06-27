@@ -259,7 +259,7 @@ export default function History() {
                   Linhagens Notórias
                 </h4>
                 <p className="text-stone-300 leading-relaxed font-sans text-lg">
-                  Monarcas absolutos, deuses-reis e heróis populares
+                  Monarcas absolutos, príncipes-magos e heróis populares
                   reivindicaram seus mandatos em prol de glória e poder
                 </p>
               </div>
