@@ -260,7 +260,7 @@ export default function History() {
                 </h4>
                 <p className="text-stone-300 leading-relaxed font-sans text-lg">
                   Monarcas absolutos, príncipes-magos e heróis populares
-                  reivindicaram seus mandatos em prol de glória e poder
+                  reivindicam soberania por poder e glória
                 </p>
               </div>
               <div className="text-center group">
