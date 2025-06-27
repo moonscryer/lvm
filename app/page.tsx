@@ -114,7 +114,7 @@ export default function Home() {
                 <Scroll className="h-10 w-10 text-amber-400" />
               </div>
               <CardTitle className="text-amber-200 text-2xl font-cinzel mb-2">
-                Crônicas Épicas
+                Crônicas Registradas
               </CardTitle>
               <CardDescription className="text-stone-400 text-lg font-sans">
                 Descubra os eventos que moldaram este mundo
@@ -175,7 +175,7 @@ export default function Home() {
                   <Wand className="h-10 w-10 text-purple-400" />
                 </div>
                 <h4 className="text-2xl font-semibold mb-4 font-cinzel text-purple-300">
-                  Aventuras Místicas
+                  Jornadas Místicas
                 </h4>
                 <p className="text-stone-300 leading-relaxed font-sans text-lg">
                   Encontre artefatos poderosos, desvende mistérios antigos, mas
