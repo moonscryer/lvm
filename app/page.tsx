@@ -40,14 +40,14 @@ export default function Home() {
         {/* Introduction */}
         <section className="text-center mb-20 parchment rounded-3xl p-12 mx-4 shadow-2xl border-4 border-amber-600/30">
           <h2 className="text-4xl md:text-6xl font-bold text-stone-800 mb-8 font-cinzel">
-            Um Mundo de Maravilhas Ancestrais
+            Um Mundo de Mistérios Ancestrais
           </h2>
           <p className="text-lg md:text-xl text-stone-700 max-w-4xl mx-auto leading-relaxed font-sans font-semibold">
-            Na Era dos Heróis, quando os deuses caminhavam entre os mortais,
-            aventureiros traçavam seus destinos com espada, coragem e
-            feitiçaria. Seja bem-vindo(a) a um mundo repleto de segredos a
-            desvendar, tesouros a conquistar, onde cada escolha ecoa através das
-            eras.
+            Diz-se que, na Era dos Heróis, os deuses caminhavam entre os
+            mortais. Agora, aventureiros traçam seus destinos com espada,
+            coragem e magia. Seja bem-vindo(a) a um mundo repleto de segredos a
+            desvendar e tesouros a conquistar, onde cada escolha ecoa através
+            das eras.
           </p>
         </section>
 
@@ -62,7 +62,7 @@ export default function Home() {
                 Grandes Reinos
               </CardTitle>
               <CardDescription className="text-stone-400 text-lg font-sans">
-                Descubra os domínios que moldam o mundo de Partha
+                Descubra os domínios que compõem Partha
               </CardDescription>
             </CardHeader>
             <CardContent className="text-center p-8">
@@ -89,7 +89,7 @@ export default function Home() {
                 Povos Diversos
               </CardTitle>
               <CardDescription className="text-stone-400 text-lg font-sans">
-                Conheça as culturas que povoam esse mundo
+                Conheça os povos e suas culturas
               </CardDescription>
             </CardHeader>
             <CardContent className="text-center p-8">
@@ -116,7 +116,7 @@ export default function Home() {
                 Crônicas Épicas
               </CardTitle>
               <CardDescription className="text-stone-400 text-lg font-sans">
-                Descubra as histórias antigas que moldaram este mundo
+                Descubra os eventos que moldaram este mundo
               </CardDescription>
             </CardHeader>
             <CardContent className="text-center p-8">
@@ -153,8 +153,8 @@ export default function Home() {
                   Guerra na Era do Bronze
                 </h4>
                 <p className="text-stone-300 leading-relaxed font-sans text-lg">
-                  Lute pela glória, por fortuna, ou por um ideal. Conquiste seu
-                  espaço no mundo, doa a quem doer
+                  Lute por glória, fortuna, ou por um ideal, e conquiste seu
+                  espaço neste mundo repleto de perigos
                 </p>
               </div>
               <div className="text-center group">
@@ -165,8 +165,8 @@ export default function Home() {
                   Intrigas Reais
                 </h4>
                 <p className="text-stone-300 leading-relaxed font-sans text-lg">
-                  Navegue pelas traiçoeiras políticas da corte, forje poderosas
-                  alianças e molde o destino dos reinos
+                  Navegue pelas traiçoeiras políticas das cortes, forje alianças
+                  e molde o destino dos reinos
                 </p>
               </div>
               <div className="text-center group">
@@ -177,8 +177,8 @@ export default function Home() {
                   Aventuras Místicas
                 </h4>
                 <p className="text-stone-300 leading-relaxed font-sans text-lg">
-                  Encontre artefatos poderosos, desvende mistérios ancestrais,
-                  mas não mexa com aquilo que não entende.
+                  Encontre artefatos poderosos, desvende mistérios antigos, mas
+                  não mexa com aquilo que não entende
                 </p>
               </div>
             </div>

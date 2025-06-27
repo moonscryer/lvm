@@ -33,7 +33,7 @@ const Navigation = () => {
                 <span className="sm:hidden">LVM</span>
               </div>
               <div className="text-xs text-amber-400 font-sans tracking-widest hidden md:block uppercase">
-                Crônicas da Era dos Heróis
+                Crônicas da Era do Bronze
               </div>
             </div>
           </Link>
