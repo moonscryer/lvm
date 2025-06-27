@@ -43,7 +43,7 @@ const timelineEvents = [
     description:
       "Mytra Al-Wazif apresenta um tomo após dois anos de isolamento no Monte Farash.",
     details:
-      "O sábio emerge de seu retiro com um livro sagrado que contém os ensinamentos finais de Dyadis. Acrescentando às palavras de Senahaddon, este tomo, conhecido como 'A Verdade Ascética', se torna a base da religião dyadista, unindo o povo do deserto sob uma única fé e estabelecendo as diretrizes morais e espirituais que moldariam a sociedade por mil anos.",
+      "O sábio emerge de seu retiro com um livro sagrado que contém os ensinamentos finais de Dyadis. Acrescentando às palavras de Senahaddon, este tomo, conhecido como 'A Verdade Ascética', se torna a base da religião dyadista, unindo o povo do deserto sob uma única fé e reafirmando as diretrizes morais e espirituais que guiariam os fiéis por mil anos.",
     icon: Eye,
     color: "from-indigo-600 to-blue-600",
   },
@@ -54,7 +54,7 @@ const timelineEvents = [
     description:
       "O Império Wazif nasce sob a égide de Sulad Al-Wazif. A convenção de Partha vê este como o ano primeiro do calendário.",
     details:
-      "Sulad ibn Sayyid 'o Belo' unifica as tribos do deserto, conquistando até mesmo a subservência dos nômades cazares. Anuk é estabelecida como a capital do novo império, e o calendário é reconfigurado para marcar o início de uma nova era. O Império Wazif se torna o centro cultural e comercial do mundo.",
+      "Sulad ibn Sayyid unifica as tribos do deserto, conquistando até mesmo a subservência dos nômades cazares. Anuk é estabelecida como a capital do novo império, e o calendário é reconfigurado para marcar o início de uma nova era. O Império Wazif se torna o centro cultural e comercial do mundo.",
     icon: Crown,
     color: "from-amber-600 to-yellow-600",
   },
@@ -65,7 +65,7 @@ const timelineEvents = [
     description:
       "A fé politeísta do Lírio Branco surge entre os povos do centro de Partha. Os seis deuses representam as pétalas do lírio sagrado.",
     details:
-      "A religião do Lírio Branco começa a se espalhar entre as tribos das florestas, planícies e pântanos de Partha. Seus rituais e festivais celebram as estações e a harmonia com a terra, contrastando com a fé monoteísta dyadista. Essa nova crença traz uma era de renovação espiritual e cultural.",
+      "A religião do Lírio Branco começa a se espalhar entre as tribos das florestas, planícies e pântanos de Partha. Seus rituais e festivais celebram as estações e a harmonia com a terra, contrastando com a fé monoteísta ascética da religião dyadista. Essa nova crença traz uma era de renovação espiritual e cultural.",
     icon: Flower,
     color: "from-purple-600 to-indigo-600",
   },
@@ -74,9 +74,9 @@ const timelineEvents = [
     title: "Reino de Fhearann",
     period: "As Conquistas de Lucardis",
     description:
-      "A lendária guerreira-loba Lucardis funda o Reino de Fhearann ao unir as tribos centrais de Partha sob sua liderança.",
+      "A lendária guerreira-loba Lucardis funda o Reino de Fhearann ao subjugar as tribos centrais de Partha sob sua liderança.",
     details:
-      "Lucardis 'a Loba' conquista as tribos guerreiras do centro de Partha. Ela estabelece um reino poderoso e respeitado, onde o trabalho e a honra são os principais valores. Fhearann se solidifica e Lucardis é reverenciada como a mãe da nação.",
+      "Lucardis 'a Loba' conquista as tribos guerreiras do centro de Partha. Ela estabelece um reino poderoso e respeitado, onde o trabalho e a honra são os principais valores. Fhearann se solidifica e Lucardis é reverenciada como a fundadora da nação.",
     icon: Crown,
     color: "from-green-700 to-green-600",
   },
@@ -85,9 +85,9 @@ const timelineEvents = [
     title: "A Ascensão do Talassismo",
     period: "Difusão do Conhecimento Proibido",
     description:
-      "O Talassismo, uma heresia dyadista, se espalha em segredo entre os estudiosos do mundo que buscam o conhecimento oculto da vida e da morte.",
+      "Uma heresia dyadista, conhecida como talassismo, se espalha em segredo entre os estudiosos do mundo que buscam a sabedoria oculta sobre a vida e a morte.",
     details:
-      "Apesar de estritamente proibida sob pena de morte, a heresia seduz os eruditos e os convida a aprender a manipular osso e espírito. Muitos necromantes emergem das sombras, desafiando as doutrinas estabelecidas.",
+      "Apesar de estritamente proibida sob pena de morte, a deturpação da fé seduz os eruditos e os tenta a aprender a manipular osso, carne e espírito. Muitos necromantes trabalham nas sombras, pervertendo as doutrinas estabelecidas.",
     icon: Skull,
     color: "from-green-800 to-gray-900",
   },
@@ -98,7 +98,7 @@ const timelineEvents = [
     description:
       "Os ferozes jarldoms do Norte se unem sob a Alta Rainha Edda Runadottir, Mãe dos Clãs, após um período de guerras sangrentas num inverno brando.",
     details:
-      "Após anos de guerras tribais, Edda 'a Dourada' conquista os clãs do norte e estabelece Trondelag como a capital do novo reino. Ela é coroada a primeira Alta Rainha, trazendo uma era de irmandade e prosperidade para o norte.",
+      "Após anos de conflitos tribais, Edda torna-se líder dos clãs do norte e estabelece Trondelag como a capital do novo reino. Ela é coroada a primeira Alta Rainha, trazendo uma era de irmandade e prosperidade para o norte.",
     icon: Mountain,
     color: "from-gray-500 to-blue-600",
   },
@@ -107,9 +107,9 @@ const timelineEvents = [
     title: "A Agressão Umeraque",
     period: "Surgimento do Principado Púrpura",
     description:
-      "Seguidores de um misterioso sábio, Umerac, usam alta magia para conquistar o Vale dos Sussurros e construir nele a cidade de mármore.",
+      "Seguidores do misterioso sábio louco Umerac usam alta magia para conquistar o Vale dos Sussurros e construir nele a cidade de mármore.",
     details:
-      "Os seguidores de Umerac, conhecidos como os umeraques, utilizam magia poderosa para estabelecer um principado isolacionista. A cidade de mármore é um lugar de mistérios arcanos onde nenhum visitante é bem-vindo e invasores nunca retornam.",
+      "Conhecidos como umeraques, os fiéis do astrólogo utilizam magia poderosa para estabelecer um principado isolacionista. A cidadela intransponível é um lugar de mistérios arcanos onde nenhum visitante é bem-vindo, de onde invasores nunca retornam.",
     icon: Wand2,
     color: "from-indigo-700 to-purple-800",
   },
