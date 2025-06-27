@@ -85,7 +85,7 @@ const realms = [
     description:
       "Povos celtas unidos por laços tribais, vivendo em harmonia com a natureza e praticando magia antiga.",
     culture:
-      "Veneradores de espíritos ancestrais, tanto da natureza quanto dos mortos.",
+      "Veneradores de espíritos, tanto da natureza quanto dos ancestrais.",
     capital: "Adhras da Floresta Uivante",
     ruler: "Brella ua Camridh",
     features: [
