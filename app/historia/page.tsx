@@ -98,7 +98,7 @@ const timelineEvents = [
     description:
       "Os ferozes jarldoms do Norte se unem sob a Alta Rainha Edda Runadottir, Mãe dos Clãs, após um período de guerras sangrentas num inverno brando.",
     details:
-      "Após anos de conflitos tribais, Edda torna-se líder dos clãs do norte e estabelece Trondelag como a capital do novo reino. Ela é coroada a primeira Alta Rainha, trazendo uma era de irmandade e prosperidade para o norte.",
+      "Em decorrência de anos de conflitos tribais, Edda torna-se líder dos clãs do norte e estabelece Trondelag como a capital do novo reino. Ela é coroada a primeira Alta Rainha, trazendo uma era de irmandade e prosperidade para o norte.",
     icon: Mountain,
     color: "from-gray-500 to-blue-600",
   },
