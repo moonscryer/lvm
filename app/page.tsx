@@ -68,7 +68,7 @@ export default function Home() {
             <CardContent className="text-center p-8">
               <p className="text-stone-300 mb-6 leading-relaxed font-sans">
                 Do norte gélido de Trondheim até os vulcões do Império Wazif,
-                cada reino possui uma diversidade de belezas a contemplar e de
+                cada reino possui uma diversidade de belezas a contemplar e
                 perigos a superar.
               </p>
               <Button
