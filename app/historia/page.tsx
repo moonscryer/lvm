@@ -76,7 +76,7 @@ const timelineEvents = [
     description:
       "A lendária guerreira-loba Lucardis funda o Reino de Fhearann ao subjugar as tribos centrais de Partha sob sua liderança.",
     details:
-      "Lucardis 'a Loba' conquista as tribos guerreiras do centro de Partha. Ela estabelece um reino poderoso e respeitado, onde o trabalho e a honra são os principais valores. Fhearann se solidifica e Lucardis é reverenciada como a fundadora da nação.",
+      "Lucardis 'a Loba' conquista as tribos guerreiras do centro de Partha. Ela estabelece um reino poderoso e respeitado, onde o trabalho e a honra são os principais valores. Fhearann se solidifica e Lucardis é reverenciada como a fundadora da nação fhearanna.",
     icon: Crown,
     color: "from-green-700 to-green-600",
   },
